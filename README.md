@@ -1,7 +1,3 @@
-To create a comprehensive `README.md` for your GitHub repository containing the "Startup Funding Analysis" notebooks, here's a template tailored to that project. It includes details such as an overview, installation instructions, and how to use the notebooks.
-
----
-
 # Startup Funding Analysis
 
 This repository contains a comprehensive analysis of startup funding in various regions, covering key trends, insights, and predictions based on available datasets. The analysis is divided into multiple parts to provide a detailed examination of different aspects of startup funding.
@@ -110,10 +106,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 4. Push to the branch: `git push origin feature-branch-name`
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
-
-This `README.md` provides a solid overview for anyone accessing your project, helping them understand its purpose, how to set it up, and how to run the analysis.
